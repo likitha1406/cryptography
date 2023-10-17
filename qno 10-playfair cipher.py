@@ -13,3 +13,6 @@ effectively_unique_keys = calculate_effectively_unique_keys()
 
 print("Number of possible keys without considering duplicates:", possible_keys)
 print("Number of effectively unique keys accounting for duplicates:", effectively_unique_keys)
+output:
+Number of possible keys without considering duplicates: 15511210043330985984000000
+Number of effectively unique keys accounting for duplicates: 3.8778025108327465e+24
