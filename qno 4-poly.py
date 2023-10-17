@@ -19,3 +19,8 @@ keyword = input("Enter a keyword: ")
 
 encrypted_message = polyalphabetic_cipher(message, keyword)
 print("Encrypted message:", encrypted_message)
+
+output:
+Enter a message: harry potter
+Enter a keyword: 2
+Encrypted message: mfwwd utyyjw
