@@ -45,3 +45,6 @@ cipher_text = hill_cipher_encrypt(message, key_matrix)
 print("Encrypted message:", cipher_text)
 decrypted_message = hill_cipher_decrypt(cipher_text, key_matrix)
 print("Decrypted message:", decrypted_message)
+output:
+Number of possible keys without considering duplicates: 15511210043330985984000000
+Number of effectively unique keys accounting for duplicates: 3.8778025108327465e+24
