@@ -19,3 +19,9 @@ if 1 <= shift <= 25:
     print(f"Decrypted text: {decrypted_text}")
 else:
     print("Shift value must be between 1 and 25.")
+    
+output;
+Enter the text: likitha
+Enter the shift value (1-25): 2
+Encrypted text: lcacpvj
+Decrypted text: likitha
