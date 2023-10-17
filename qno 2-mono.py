@@ -6,3 +6,6 @@ key = 'zyxwvutsrqponmlkjihgfedcba'
 plaintext = input("Enter the text to encrypt: ")
 encrypted_text = mono_substitution_cipher(plaintext, key)
 print(f"Encrypted text: {encrypted_text}")
+output:
+Enter the text to encrypt: jayanth
+Encrypted text: qzbzmgs
