@@ -33,3 +33,7 @@ def playfair_cipher(key, text):
 key = input("Keyword: ")
 text = input("Text: ")
 print("Cipher: " + playfair_cipher(key, text))
+output:
+Keyword: monarchy
+Text: mosque
+Cipher: ONTSML
